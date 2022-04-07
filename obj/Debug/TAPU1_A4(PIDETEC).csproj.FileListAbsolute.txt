@@ -1,0 +1,13 @@
+C:\Users\joset\source\repos\TAPU1_A4(PIDETEC)\TAPU1_A4(PIDETEC)\bin\Debug\TAPU1_A4(PIDETEC).exe.config
+C:\Users\joset\source\repos\TAPU1_A4(PIDETEC)\TAPU1_A4(PIDETEC)\bin\Debug\TAPU1_A4(PIDETEC).exe
+C:\Users\joset\source\repos\TAPU1_A4(PIDETEC)\TAPU1_A4(PIDETEC)\bin\Debug\TAPU1_A4(PIDETEC).pdb
+C:\Users\joset\source\repos\TAPU1_A4(PIDETEC)\TAPU1_A4(PIDETEC)\obj\Debug\TAPU1_A4(PIDETEC).csprojAssemblyReference.cache
+C:\Users\joset\source\repos\TAPU1_A4(PIDETEC)\TAPU1_A4(PIDETEC)\obj\Debug\TAPU1_A4_PIDETEC_.InicioSesion.resources
+C:\Users\joset\source\repos\TAPU1_A4(PIDETEC)\TAPU1_A4(PIDETEC)\obj\Debug\TAPU1_A4_PIDETEC_.Properties.Resources.resources
+C:\Users\joset\source\repos\TAPU1_A4(PIDETEC)\TAPU1_A4(PIDETEC)\obj\Debug\TAPU1_A4(PIDETEC).csproj.GenerateResource.cache
+C:\Users\joset\source\repos\TAPU1_A4(PIDETEC)\TAPU1_A4(PIDETEC)\obj\Debug\TAPU1_A4(PIDETEC).csproj.CoreCompileInputs.cache
+C:\Users\joset\source\repos\TAPU1_A4(PIDETEC)\TAPU1_A4(PIDETEC)\obj\Debug\TAPU1_A4(PIDETEC).exe
+C:\Users\joset\source\repos\TAPU1_A4(PIDETEC)\TAPU1_A4(PIDETEC)\obj\Debug\TAPU1_A4(PIDETEC).pdb
+C:\Users\joset\source\repos\TAPU1_A4(PIDETEC)\TAPU1_A4(PIDETEC)\obj\Debug\TAPU1_A4_PIDETEC_.ImagenesPlatillos.resources
+C:\Users\joset\source\repos\TAPU1_A4(PIDETEC)\TAPU1_A4(PIDETEC)\obj\Debug\TAPU1_A4_PIDETEC_.MenuComida.resources
+C:\Users\joset\source\repos\TAPU1_A4(PIDETEC)\TAPU1_A4(PIDETEC)\obj\Debug\TAPU1_A4_PIDETEC_.MostrarPlatillos.resources
